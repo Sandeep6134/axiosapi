@@ -42,7 +42,7 @@ function Fetching() {
 
   return (<div>
       <h2>Fetching Using Axios</h2>
-      <table  border="1">
+      <table>
             <thead>
                 <tr>
                     <td>Country Code</td>
